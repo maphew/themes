@@ -1,39 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://maphew.github.com/default/acrylic-pages\default\rss\</loc>
-    <lastmod>2013-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>http://maphew.github.com/default/acrylic-pages\default\articles\</loc>
-    <lastmod>2013-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>http://maphew.github.com/default/acrylic-pages\default\tag\die-verwandlung\</loc>
-    <lastmod>2013-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>http://maphew.github.com/default/acrylic-pages\default\</loc>
-    <lastmod>2013-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>http://maphew.github.com/default/acrylic-pages\default\atom\</loc>
-    <lastmod>2013-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>http://maphew.github.com/default/acrylic-pages\default\tag\franz-kafka\</loc>
-    <lastmod>2013-03-27</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>http://maphew.github.com/default/acrylic-pages\default\2012\die-verwandlung\</loc>
+    <loc>http://maphew.github.com/themes/default/acrylic-pages\themes\default\2012\die-verwandlung\</loc>
     <lastmod>2013-03-27</lastmod>
     <changefreq>never</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://maphew.github.com/themes/default/acrylic-pages\themes\default\atom\</loc>
+    <lastmod>2013-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://maphew.github.com/themes/default/acrylic-pages\themes\default\articles\</loc>
+    <lastmod>2013-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://maphew.github.com/themes/default/acrylic-pages\themes\default\</loc>
+    <lastmod>2013-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://maphew.github.com/themes/default/acrylic-pages\themes\default\tag\franz-kafka\</loc>
+    <lastmod>2013-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://maphew.github.com/themes/default/acrylic-pages\themes\default\tag\die-verwandlung\</loc>
+    <lastmod>2013-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://maphew.github.com/themes/default/acrylic-pages\themes\default\rss\</loc>
+    <lastmod>2013-03-27</lastmod>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
