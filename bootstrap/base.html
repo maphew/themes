@@ -4,7 +4,7 @@
   {% block head -%}
   <meta charset="utf-8" />
   <title>{% block title %}{% endblock %}</title>
-  <link media="all" href="{{ env.path + '/style.css' }}" rel="stylesheet" />
+  <!-- <link media="all" href="{{ env.path + '/style.css' }}" rel="stylesheet" /> -->
   <link href="/favicon.ico" rel="shortcut icon" />
     {% if 'sitemap' in env.views -%}
         <link href="{{ env.views.sitemap.path }}" type="application/xml" rel="sitemap" title="Sitemap">
@@ -12,6 +12,9 @@
   <link href="{{ env.path + '/' }}" rel="home start" />
   <link href="{{ env.path + '/atom/' }}" type="application/atom+xml" rel="alternate" title="Atom Feed" />
   <link href="{{ env.path + '/rss/' }}" type="application/rss+xml" rel="alternate" title="RSS Feed" />
+  
+  <link href="{{ env.path + '/assets/css/bootstrap.min.css' }}" rel="stylesheet" media="screen">
+  
   <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
@@ -37,6 +40,9 @@
     <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/de/" rel="copyright license">
         <img src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" alt="by-nc-sa" />
     </a>
+
+    <script src="{{ env.path + '/assets/js/bootstrap.min.js' }}"></script>
+
     {% endblock %}
   </footer>
 </body>
