@@ -8,7 +8,7 @@ Demo and test pages for [acrylamid-themes](https://github.com/posativ/themes).
 ### Initialize GH pages
 Adapted from instructions at https://help.github.com/articles/creating-project-pages-manually
 
-	git clone https://github.com/maphew/themes.git acrylic-pages
+	git clone https://github.com/posativ/themes.git acrylic-pages
 	cd acrylic-pages
 	git rm -rf .
 
@@ -20,9 +20,9 @@ Adapted from instructions at https://help.github.com/articles/creating-project-p
 add following:
 
 	#THEME = 'themes/default'
-	#WWW_ROOT = 'http://maphew.github.com/themes/default'
+	#WWW_ROOT = 'http://posativ.github.com/themes/default'
 	THEME = 'themes/bootstrap'
-	WWW_ROOT = 'http://maphew.github.com/themes/bootstrap'
+	WWW_ROOT = 'http://posativ.github.com/themes/bootstrap'
 
 [Un]comment and compile as needed:
 
@@ -30,4 +30,4 @@ add following:
 	move output\themes\bootstrap ..\acrylic-pages\bootstrap
 
 And finally commit changes, 
-and test by visting [http://maphew.github.com/themes/](http://maphew.github.com/themes/)
+and test by visting [http://posativ.github.com/themes/](http://posativ.github.com/themes/)
