@@ -3,6 +3,9 @@ body {
 	min-width: 15em;
 	max-width: 50em;
 }
+header {
+	text-align: center;
+}
 
 nav > ul > li {
 	padding-left: 2em !important;
