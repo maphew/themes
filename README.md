@@ -17,3 +17,5 @@ You can set THEME to anything inside `ls theme/`.
 
 Just add a new folder to `theme/` and put all your theme assets and templates
 in there.
+
+Samples of the current themes can be viewed at http://posativ.github.io/themes/
